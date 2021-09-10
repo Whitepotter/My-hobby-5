@@ -57,6 +57,7 @@ p {
 
 a {
     text-decoration: none;
+    color: black;
 }
 
 html {
@@ -74,4 +75,19 @@ html {
 }
 #inspiration{
     background:  linear-gradient(#07c7fa,#09796b);
+}
+#writings a{
+    text-shadow: none !important;
+    text-decoration:underline;
+    color:blue !important;
+}
+#contacts{
+    background-color: firebrick;
+}
+#contact_1 a{
+    color: white;
+    text-shadow: none;
+}
+#contact_1 h3{
+    display:inline;
 }
